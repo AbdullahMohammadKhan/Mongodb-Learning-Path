@@ -34,3 +34,6 @@ Under the General tab, click the button to the right of the message about mongod
 https://www.json.org/json-en.html
 
 
+https://developer.mongodb.com/article/map-terms-concepts-sql-mongodb
+
+
